@@ -10,7 +10,7 @@ This is the code for the "Time Series Analysis using Python | Forecasting Projec
 5. Demo: Forecasting project in python
 
 # usefule Links
-Code Explaination Video: https://youtu.be/9t2ehvFVAFU
+[Code Explaination Video](https://youtu.be/9t2ehvFVAFU)
 
 
 
